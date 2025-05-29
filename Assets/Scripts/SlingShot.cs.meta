@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 9d9b3cebc78d29f48aee8a2a23c19d55
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - center: {instanceID: 0}
+  - idlePosition: {instanceID: 0}
+  - RoosterPrefab: {fileID: 7109760861073071588, guid: 723b15bbdc3c5b5429bc2136e7942f22, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
